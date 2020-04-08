@@ -1,2 +1,5 @@
-# link_15th
-딥러닝 과제 제출 github 입니다
+# Welcome!!
+# This is the KOREATECH link lab 15th repository!
+
+**LINK** means **L**aboratory of **I**ntelligent **N**etworks at **K**oreaTech  
+http://link.koreatech.ac.kr/
